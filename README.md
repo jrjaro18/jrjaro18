@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/cb/0d/13/cb0d139e178018df8b3e778369395ac7.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi 👋, I'm Rohan Jaiswal</h1>
 <h3 align="center">Crafting elegant code, one commit at a time.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
