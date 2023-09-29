@@ -1,18 +1,18 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
-<h1 align="center">Hi 👋, I'm Rohan Jaiswal</h1>
-<h3 align="center">Crafting elegant code, one commit at a time.</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
+![MasterHead](https://github.com/jrjaro18/jrjaro18/assets/101345854/c2313df2-76a1-4311-8836-a4a30dc8dd49)
+<h1 align="center">🌑 Welcome to the Abyss, I'm Rohan Jaiswal 🌑</h1>
+<h3 align="center">Crafting cryptic code in the shadows, one commit at a time.</h3>
+<img align="right" alt="Coding" width="300" src="https://github.com/jrjaro18/jrjaro18/assets/101345854/f421e2b9-6d5a-4e66-bebd-12209b3c2065"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjaro18&label=Profile%20views&color=0e75b6&style=flat" alt="jrjaro18" /> </p>
 
-- 🔭 I’m currently working on [Traxx](https://github.com/jrjaro18/react-native-app--traxx)
+- 🌌 Currently immersed in the void known as [Traxx](https://github.com/jrjaro18/react-native-app--traxx)
 
-- 🌱 I’m currently learning **React Native & Deep Learning**
+- 🪓 Exploring the realms of **React Native** & Delving into the abyss of **Deep Learning**
 
-- 💬 Ask me about **MERN, React Native, Machine Learning**
+- 💬 Dare to ask me about the dark arts of **MERN, React Native, and Machine Learning**
 
-- 📫 How to reach me **rohanjaiswal1500@gmail.com**
+- 📫 You can summon me via **rohanjaiswal1500@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rohan-jaiswal-4b3363231/](https://www.linkedin.com/in/rohan-jaiswal-4b3363231/)
+- 📜 Explore my eerie past: [https://www.linkedin.com/in/rohan-jaiswal-4b3363231/](https://www.linkedin.com/in/rohan-jaiswal-4b3363231/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
