@@ -4,15 +4,16 @@
 <h3 align="center">Crafting cryptic code in the shadows, one commit at a time.</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/jrjaro18/jrjaro18/assets/101345854/f421e2b9-6d5a-4e66-bebd-12209b3c2065"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjaro18&label=Profile%20views&color=0e75b6&style=flat" alt="jrjaro18" /> </p>
-- 🌌 Currently immersed in the void known as [Traxx](https://github.com/jrjaro18/react-native-app--traxx)
 
 - 🪓 Exploring the realms of **React Native** & Delving into the abyss of **Deep Learning**
 
 - 💬 Dare to ask me about the dark arts of **MERN, React Native, and Machine Learning**
 
+- 🌌 Currently immersed in the void known as [Traxx](https://github.com/jrjaro18/react-native-app-traxx)
+
 - 📫 You can summon me via **rohanjaiswal1500@gmail.com**
 
-- 📜 Explore my eerie past: [https://www.linkedin.com/in/rohan-jaiswal-4b3363231/](https://www.linkedin.com/in/rohan-jaiswal-4b3363231/)
+- 📜 Explore my eerie past: [LinkedIn](https://www.linkedin.com/in/rohan-jaiswal-4b3363231/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
