@@ -26,14 +26,14 @@
 
 <p><img align="left" width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jrjaro18&show_icons=true&locale=en&layout=compact" alt="jrjaro18" />
 <img align="right" width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=jrjaro18&show_icons=true&locale=en" alt="jrjaro18" />
-<img align="center" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=jrjaro18&" alt="jrjaro18" /></p>
+  
+<img align="left"  width="350" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jrjaro18" alt="jrjaro18" />
+<img align="right"  width="350" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrjaro18"/>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/jrjaro18">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrjaro18&theme=2077" height="180em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrjaro18&theme=2077" height="180em"/>
-<br/>
-<br/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrjaro18&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
