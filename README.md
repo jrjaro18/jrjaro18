@@ -1,9 +1,9 @@
 ![MasterHead](https://github.com/jrjaro18/jrjaro18/assets/101345854/c2313df2-76a1-4311-8836-a4a30dc8dd49)
-<h1 align="center">🌑 Welcome to the Abyss, I'm Rohan Jaiswal 🌑</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"> Welcome to the Abyss, I'm Rohan Jaiswal 🌙</h1>
 <h3 align="center">Crafting cryptic code in the shadows, one commit at a time.</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/jrjaro18/jrjaro18/assets/101345854/f421e2b9-6d5a-4e66-bebd-12209b3c2065"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjaro18&label=Profile%20views&color=0e75b6&style=flat" alt="jrjaro18" /> </p>
-
 - 🌌 Currently immersed in the void known as [Traxx](https://github.com/jrjaro18/react-native-app--traxx)
 
 - 🪓 Exploring the realms of **React Native** & Delving into the abyss of **Deep Learning**
@@ -29,11 +29,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/jrjaro18">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrjaro18&theme=2077" height="230em"/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrjaro18&theme=2077" height="230em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrjaro18&theme=2077" height="180em"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jrjaro18&theme=2077" height="180em"/>
 <br/>
 <br/>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrjaro18&theme=2077" height="230em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jrjaro18&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jrjaro18&theme=react-dark"/>
