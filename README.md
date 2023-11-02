@@ -9,7 +9,7 @@
 
 - 💬 Dare to ask me about the dark arts of **MERN, React Native, and Machine Learning**
 
-- 🌌 Currently immersed in the void known as [Traxx](https://github.com/jrjaro18/react-native-app-traxx)
+- 🌌 Currently immersed in the void known as [Traxx](https://github.com/jrjaro18/TRAXX)
 
 - 📫 You can summon me via **rohanjaiswal1500@gmail.com**
 
