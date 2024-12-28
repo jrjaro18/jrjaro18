@@ -9,7 +9,7 @@
 
 - 💬 Dare to ask me about the dark arts of **MERN, React Native, and Machine Learning**
 
-- 🌌 Currently immersed in the void known as [Cardinal](https://github.com/jrjaro18/cardinal)
+- 🌌 Currently immersed in the void known as [Distributed Consensus](https://github.com/jrjaro18/elastic-raft-go)
 
 - 📫 You can summon me via **rohanjaiswal1500@gmail.com**
 
