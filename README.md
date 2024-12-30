@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/jrjaro18/jrjaro18/assets/101345854/c2313df2-76a1-4311-8836-a4a30dc8dd49)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> Welcome to the Abyss, I'm Rohan Jaiswal 🌙</h1>
-<h3 align="center">Crafting cryptic code in the shadows, one commit at a time.</h3>
+<h3 align="center">Crafting cryptic code in the shadows, one commit at a time </h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/jrjaro18/jrjaro18/assets/101345854/f421e2b9-6d5a-4e66-bebd-12209b3c2065"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjaro18&label=Profile%20views&color=0e75b6&style=flat" alt="jrjaro18" /> </p>
 
