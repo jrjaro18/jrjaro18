@@ -1,6 +1,5 @@
-![Masterhead](https://github.com/user-attachments/assets/5474f603-73d2-4ebe-8c60-dcd79b40b127)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Rohan Jaiswal 🛠️</h1>
+<img src="https://github.com/user-attachments/assets/146cb9a5-57d4-4f7f-b891-4c78b66458af" width="100%" height="300">
+<h1 align="center"> 🏞️ Welcome to my blocky domain, I'm <s>Rohan J.,.</s> Steve </h1>
 <h3 align="center">Building pixel-perfect projects, one block at a time!</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/11d57bdd-eb4f-4b98-a241-cb966f933d1f"/>
 
