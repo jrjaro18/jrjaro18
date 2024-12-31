@@ -1,4 +1,3 @@
-<img src="https://github.com/user-attachments/assets/146cb9a5-57d4-4f7f-b891-4c78b66458af" width="100%" height="300">
 <h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Steeeve </h1>
 <h3 align="center">Building pixel-perfect projects, one block at a time!</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/11d57bdd-eb4f-4b98-a241-cb966f933d1f"/>
