@@ -1,19 +1,21 @@
-![MasterHead](https://github.com/jrjaro18/jrjaro18/assets/101345854/c2313df2-76a1-4311-8836-a4a30dc8dd49)
+![MasterHead](https://github.com/user-attachments/assets/968e067d-ee02-4426-bc0c-1c938aabb121)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"> Welcome to the Abyss, I'm Rohan Jaiswal 🌙</h1>
-<h3 align="center">Crafting cryptic code in the shadows, one commit at a time </h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/jrjaro18/jrjaro18/assets/101345854/f421e2b9-6d5a-4e66-bebd-12209b3c2065"/>
+<h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Rohan Jaiswal 🛠️</h1>
+<h3 align="center">Building pixel-perfect projects, one block at a time!</h3>
+<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/11d57bdd-eb4f-4b98-a241-cb966f933d1f"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjaro18&label=Profile%20views&color=0e75b6&style=flat" alt="jrjaro18" /> </p>
 
-- 🪓 Exploring the realms of **React Native** & Delving into the abyss of **Deep Learning**
+- 🌲 Exploring the biomes of React Native & Mining through the caves of Deep Learning
 
-- 💬 Dare to ask me about the dark arts of **MERN, React Native, and Machine Learning**
+- 💬 Chat with me about the treasures of MERN, React Native, and Machine Learning
 
-- 🌌 Currently immersed in the void known as [Distributed Consensus](https://github.com/jrjaro18/elastic-raft-go)
+- ⛏️ Currently digging deep into the mines of [Distributed Consensus](https://github.com/jrjaro18/elastic-raft-go)
 
-- 📫 You can summon me via **rohanjaiswal1500@gmail.com**
+- 📧 Drop me a note via **jrjaro2004@gmail.com**
 
-- 📜 Explore my eerie past: [LinkedIn](https://www.linkedin.com/in/rohan-jaiswal-4b3363231/)
+- 📜 Check out my adventure logs: [LinkedIn](https://www.linkedin.com/in/rohan-jaiswal-4b3363231/)
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
