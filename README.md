@@ -1,7 +1,7 @@
-<h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Steeeve </h1>
+<h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Steeeve <br> </h1>
 <h3 align="center">Building pixel-perfect projects, one block at a time!</h3>
+<br>
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/11d57bdd-eb4f-4b98-a241-cb966f933d1f"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jrjaro18&label=Profile%20views&color=0e75b6&style=flat" alt="jrjaro18" /> </p>
 
 - 🌲 Exploring the biomes of React Native & Mining through the caves of Deep Learning
