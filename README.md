@@ -8,7 +8,7 @@
 
 - 💬 Chat with me about the treasures of MERN, React Native, and Machine Learning
 
-- ⛏️ Currently digging deep into the mines of [RAFT, A Distributed Consensus Algorithm](https://github.com/jrjaro18/elastic-raft-go)
+- ⛏️ Currently digging deep into the mines of [RAFT (A Distributed Consensus Algorithm)](https://github.com/jrjaro18/elastic-raft-go)
 
 - 📧 Drop me a note via **jrjaro2004@gmail.com**
 
