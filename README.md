@@ -10,9 +10,9 @@
 
 - ⛏️ Currently digging deep into the mines of [RAFT (A Distributed Consensus Algorithm)](https://github.com/jrjaro18/elastic-raft-go)
 
-- 📧 Drop me a note via **jrjaro2004@gmail.com**
+- 📧 Drop me a note via **jrjaro18@duck.com**
 
-- 📜 Check out my adventure logs: [LinkedIn](https://www.linkedin.com/in/rohan-jaiswal-4b3363231/)
+- 📜 Check out my adventure logs: [LinkedIn](https://www.linkedin.com/in/jrjaro18/)
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
