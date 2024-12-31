@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/user-attachments/assets/968e067d-ee02-4426-bc0c-1c938aabb121)
+![MasterHead](https://github.com/user-attachments/assets/3a9e4364-82d4-4b6c-ba9e-76cffc98e531)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Rohan Jaiswal 🛠️</h1>
