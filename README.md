@@ -1,4 +1,4 @@
-<h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Steeeve <br> </h1>
+<h1 align="center"> 🏞️ Welcome to my blocky domain, I'm Rohannn <br> </h1>
 <h3 align="center">Building pixel-perfect projects, one block at a time!</h3>
 <br>
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/11d57bdd-eb4f-4b98-a241-cb966f933d1f"/>
@@ -7,8 +7,6 @@
 - 🌲 Exploring the biomes of React Native & Mining through the caves of Deep Learning
 
 - 💬 Chat with me about the treasures of MERN, React Native, and Machine Learning
-
-- ⛏️ Currently digging deep into the mines of [RAFT (A Distributed Consensus Algorithm)](https://github.com/jrjaro18/elastic-raft-go)
 
 - 📧 Drop me a note via **jrjaro18@duck.com**
 
