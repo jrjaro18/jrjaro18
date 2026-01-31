@@ -17,9 +17,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://app.daily.dev/jrjaro18">
-        <img src="https://api.daily.dev/devcards/v2/Db7FZ8ezT21BMrvqvwcjo.png?type=wide&r=pnq" width="550" alt="Rohan's Dev Card"/>
-      </a>
+        <a href="https://app.daily.dev/jrjaro18"><img src="https://api.daily.dev/devcards/v2/Db7FZ8ezT21BMrvqvwcjo.png?type=wide&r=f3y" width="550" alt="Rohan Jaiswal's Dev Card"/></a>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrjaro18" width="400" alt="GitHub Streak"/>
